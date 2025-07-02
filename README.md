@@ -1,5 +1,5 @@
-# Suicide_risk_usingLLM
-Predicting Suicide Risk Using Machine Learning and Large Language Models
+# Predicting Suicide Risk Using Machine Learning and Large Language Models
+
 
 
 ## THIS PROJECT IS UNDER DEVELOPMENT
